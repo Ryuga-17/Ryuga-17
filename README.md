@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Deep Learning**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Ryuga-17/Ryuga-17.git](https://github.com/Ryuga-17/Ryuga-17.git)
-
 - 📫 How to reach me **vsawntlm17@gmail.com**
 
 - ⚡ Fun fact **I am a hardcore physics enthusiast**
