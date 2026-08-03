@@ -164,21 +164,6 @@ profile = {
 
 <br>
 
-## 📄 Publications & Research
-
-*   **[Research Paper Title Placeholder]**
-    *Conference/Journal Name (Year)*
-    *Authors: Vivek Sawant, et al.*
-    *Summary: A brief one-sentence description of the novel architecture or findings.*
-    *[Link to Paper]*
-
-*   **[Research Paper Title Placeholder]**
-    *Conference/Journal Name (Year)*
-    *Authors: Vivek Sawant, et al.*
-    *Summary: A brief one-sentence description of the novel architecture or findings.*
-    *[Link to Paper]*
-
-<br>
 
 ## 📜 Certifications
 
