@@ -33,8 +33,6 @@ I design AI systems that are accurate, deployable, scalable, and impactful. My e
 ```python
 profile = {
     "name": "Vivek Sawant",
-    "role": "Applied Scientist Intern",
-    "company": "Amazon",
     "university": "NIT Rourkela",
     "research_interests": [
         "Artificial Intelligence",
